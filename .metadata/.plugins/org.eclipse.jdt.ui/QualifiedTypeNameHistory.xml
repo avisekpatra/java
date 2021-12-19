@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="splitstring"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="test.PackageTesting"/>
+    <fullyQualifiedTypeName name="StaticClass.A.C"/>
+    <fullyQualifiedTypeName name="jdk.dynalink.beans.StaticClass"/>
+    <fullyQualifiedTypeName name="StaticClass.A"/>
+    <fullyQualifiedTypeName name="singleton.AppConfig"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="stack.MyLinkedLIst"/>
+    <fullyQualifiedTypeName name="linkedListForstack.MyLinkedLIst"/>
+    <fullyQualifiedTypeName name="queue.LinkedListForQueue"/>
+    <fullyQualifiedTypeName name="queue.LinkedListForQueue.Node"/>
+    <fullyQualifiedTypeName name="dequeue.MyDequeue"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+</qualifiedTypeNameHistroy>
